@@ -5,6 +5,7 @@
 
 !! define function f(x) then call the subroutine secant(xa,xb,tol,xc,Nit) !!
 
+
 !! function f(x) !!
 FUNCTION f(x) RESULT(z)
 
