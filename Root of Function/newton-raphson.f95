@@ -6,6 +6,7 @@
 !! define function f(x) and its derivative f'(x) then call the subroutine newtonraphson(x0,tol,xc,Nit) !!
 
 
+
 !! function f(x) !!
 FUNCTION f(x) RESULT(z)
 
